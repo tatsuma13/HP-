@@ -82,6 +82,26 @@ img{
     border-right: solid 3px white;
 }
 
+.mainmenu{
+    width: auto;
+    height: 450px;
+    background-color: rgb(248, 236, 220);
+}
+
+.mainmenu h2{
+    font-size: 30px;
+    font-family: serif;
+    color: black;
+
+}
+
+.mainmenu p{
+    font-size: 20px;
+    font-family: serif;
+    color: black;
+    
+}
+
 footer{
     clear: both;
     text-align: center;
